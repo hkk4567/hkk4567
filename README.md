@@ -29,4 +29,3 @@ My dream—or rather, my goal—is to become a FULLSTACK developer. I have learn
 
 <a href="http://www.github.com/hkk4567"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hkk4567&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/hkk4567" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkk4567&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
